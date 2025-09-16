@@ -21,5 +21,5 @@ A simple, clean, and responsive one-page website built as a landing page for a b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Simple-Landing-Page.git
+   git clone https://github.com/AlexandrCode24/Simple-Landing-Page.git
 
