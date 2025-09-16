@@ -25,8 +25,8 @@ A simple, clean, and responsive one-page website built as a landing page for a b
 
 ## Preview
 
-![Landing Page Preview](images\IMG_1622.jpg)
-![Contact Form Preview](images\IMG_1624.jpg)
-![Contact Form Preview](images\Landing-page-desktop1.png)
-![Contact Form Preview](images\Landing-page-desktop2.png)
+![Contact Form Preview Mobile](https://github.com/AlexandrCode24/Simple-Landing-Page/blob/main/images/IMG_1622.jpg?raw=true)
+![Landing Page Preview Mobile](https://github.com/AlexandrCode24/Simple-Landing-Page/blob/main/images/IMG_1624.jpg?raw=true)
+![Landing Page Preview Desktop](https://github.com/AlexandrCode24/Simple-Landing-Page/blob/main/images/Landing-page-desktop1.png?raw=true)
+![Contact Form Preview Desktop](https://github.com/AlexandrCode24/Simple-Landing-Page/blob/main/images/Landing-page-desktop2.png?raw=true)
 
