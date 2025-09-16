@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Business Name| Landing Page</title>
+        <link rel="stylesheet" href="css/styles.css">
+        <script src="js/script.js"></script>
+    </head>
+
+    <body>
+        <header>
+            <nav role="navigation">
+                <ul>
+                    <li><a href="#About-Us">About Us</a></li>
+                    <li><a href="#on-offer">Services/Features</a></li>
+                    <li><a href="#contact-form">Contact Us</a></li>
+                </ul>
+            </nav>
+            <h1>Business Name Here</h1>
+        </header>
+        <main class="container">
+            <section id="About-Us">
+                <h2>About Us</h2>
+                <p>Relevant information here</p>
+            </section>
+            <section id="on-offer">
+                <h2>Services/Features</h2>
+                <p>Relevant information here</p>
+            </section>
+            <section id="contact-form">
+                <h2>Contact Us</h2>
+                <form onsubmit="return validateForm()" action="" method="post">
+                    <div class="form-group">
+                        <!--<label for="fname">First Name</label>-->
+                        <input type="text" id="fname" name="name" placeholder="First Name">
+                    </div>
+                    
+                    <div class="form-group">
+                        <!--<label for="lname">Last Name</label>-->
+                        <input type="text" id="lname" name="name" placeholder="Last Name">
+                    </div>
+
+                    <!--<label for="email">Email</label>-->
+                    <input type="email" id="email" name="email" placeholder="Email">   
+
+                    <!--<label for="message">Message</label>
+                    <textarea name="message" id="message" required></textarea>
+
+                    <button type="submit">Send</button>
+                    
+                </form>
+            </section>
+
+        </main>
+        <footer>
+            <p>&copy; Your footer here. All Rights reserved.</p>
+        </footer>
+    </body>
+    
+</html>
