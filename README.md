@@ -23,3 +23,10 @@ A simple, clean, and responsive one-page website built as a landing page for a b
    ```bash
    git clone https://github.com/AlexandrCode24/Simple-Landing-Page.git
 
+## Preview
+
+![Landing Page Preview](images\IMG_1622.jpg)
+![Contact Form Preview](images\IMG_1624.jpg)
+![Contact Form Preview](images\Landing-page-desktop1.png)
+![Contact Form Preview](images\Landing-page-desktop2.png)
+
